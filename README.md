@@ -1,6 +1,5 @@
 # Car-Price-Prediction-Project
 Car Price Prediction Prediction
-# Car Price Prediction Project
 
 ## Overview
 
